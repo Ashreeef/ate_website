@@ -367,11 +367,18 @@ export default function LandingPage() {
                   </h3>
                   <p className="text-2xl text-muted-foreground mb-12 font-medium">{t.download.size}</p>
 
-                  <Button
+                 <Button
+                    asChild
                     size="lg"
                     className="bg-primary hover:bg-black hover:text-primary hover:border-2 hover:border-primary text-white rounded-none h-20 px-16 text-2xl font-black uppercase tracking-tighter transition-all shadow-[0_20px_40px_rgba(255,0,54,0.3)] hover:shadow-none"
                   >
-                    {t.download.button}
+                    <a
+                      href="https://github.com/Ashreeef/ate_website/releases/download/v1.0.0/app-debug.apk"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      {t.download.button}
+                    </a>
                   </Button>
 
                   <div
