@@ -62,11 +62,11 @@ export const translations = {
     download: {
       ready: "Ready to Eat?",
       available: "Available Now",
-      version: "Ate App v2.0-beta",
-      size: "Android build (APK) • 42.5 MB",
+      version: "Ate App v1.0.0-beta",
+      size: "Android build (APK) • 55.5 MB",
       button: "Download Latest APK",
       location: "Algiers, Algeria",
-      waitlisted: "1,200+ Waitlisted",
+      waitlisted: "200+ Waitlisted",
     },
   },
   fr: {
@@ -129,11 +129,11 @@ export const translations = {
     download: {
       ready: "Prêt à manger ?",
       available: "Disponible maintenant",
-      version: "Application Ate v2.0-beta",
-      size: "Version Android (APK) • 42.5 MB",
+      version: "Application Ate v1.0.0-beta",
+      size: "Version Android (APK) • 55.5 MB",
       button: "Télécharger l'APK",
       location: "Alger, Algérie",
-      waitlisted: "1,200+ en attente",
+      waitlisted: "200+ en attente",
     },
   },
   ar: {
@@ -193,11 +193,11 @@ export const translations = {
     download: {
       ready: "جاهز للأكل؟",
       available: "متاح الآن",
-      version: "تطبيق Ate v2.0-beta",
-      size: "نسخة أندرويد (APK) • 42.5 ميجابايت",
+      version: "تطبيق Ate v1.0.0-beta",
+      size: "نسخة أندرويد (APK) • 55.5 ميجابايت",
       button: "تحميل أحدث APK",
       location: "الجزائر العاصمة، الجزائر",
-      waitlisted: "1,200+ في الانتظار",
+      waitlisted: "200+ في الانتظار",
     },
   },
 }
