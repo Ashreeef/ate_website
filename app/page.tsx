@@ -370,10 +370,10 @@ export default function LandingPage() {
                  <Button
                     asChild
                     size="lg"
-                    className="bg-primary hover:bg-black hover:text-primary hover:border-2 hover:border-primary text-white rounded-none h-20 px-16 text-2xl font-black uppercase tracking-tighter transition-all shadow-[0_20px_40px_rgba(255,0,54,0.3)] hover:shadow-none"
+                    className="bg-primary hover:bg-black hover:text-primary hover:border-2 hover:border-primary text-white rounded-none w-full sm:w-auto h-16 md:h-20 px-6 md:px-16 text-lg md:text-2xl font-black uppercase tracking-tighter transition-all shadow-[0_20px_40px_rgba(255,0,54,0.3)] hover:shadow-none whitespace-normal md:whitespace-nowrap"
                   >
                     <a
-                      href="https://github.com/Ashreeef/ate_website/releases/download/v1.0.0-beta/app-release.apk"
+                      href="https://github.com/Ashreeef/ate_app/releases/download/v1.0.0-beta/ate-v1.0.0-beta.apk"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
